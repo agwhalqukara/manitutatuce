@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://manitutatuce.pages.dev/sitemap.xml
